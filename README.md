@@ -62,3 +62,7 @@ Now, your website is successfully deployed and you can visit it at `<your-github
 
 Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
 Illustrations: https://undraw.co/
+
+## Deploy to Google Cloud Run
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
